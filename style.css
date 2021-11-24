@@ -1,0 +1,61 @@
+.global{
+    font-size:x-large;
+    margin: 20px;
+    width: 815px;
+    padding-top: 15px;
+    padding-left: 10px; 
+    height: 1170px; 
+    border-style: solid; 
+    border-color: rgb(197, 197, 197); 
+    color: rgb(197, 197, 197);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.topo{
+    margin: 10px;
+    width: 767px; 
+    height: 150px;
+    padding-left: 10px; 
+    line-height: 150px;
+    border-style: solid; 
+    border-color: rgb(233, 20, 137); 
+    color: rgb(233, 20, 137);
+}
+
+.conteudo{
+    float: left; 
+    width: 483px; 
+    margin: 10px; 
+    height: 700px;
+    padding-left: 10px;
+    line-height: 700px; 
+    border-style: solid; 
+    border-color: rgb(165, 223, 205); 
+    color: rgb(165, 223, 205);
+}
+
+.menu{
+    float: right;  
+    width: 247px; 
+    margin: 10px; 
+    margin-right: 21px;
+    margin-bottom: 20px;
+    height: 700px;
+    padding-left: 10px;
+    line-height: 700px; 
+    border-style: solid; 
+    border-color: rgb(111, 145, 218); 
+    color: rgb(111, 145, 218);
+}
+
+.rodape{
+    clear: both; 
+    margin: 10px;
+    width: 767px; 
+    height: 200px;
+    padding-left: 10px;
+    line-height: 200px; 
+    border-style: solid; 
+    border-color: rgb(221, 129, 24); 
+    color: rgb(221, 129, 24);
+}
